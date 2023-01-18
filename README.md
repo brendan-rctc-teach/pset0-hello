@@ -6,7 +6,7 @@ Click the green Code button and choose Open with Codespaces.
 2. If you have opened this assignment before, click main.
 3. To submit this problem: 
    1. On the left hand side of VSCode, choose the "source control" button.
-   2. Now, you want to write a "commit" message describing what you've done and click "commit."
+   2. Now, you want to write a "commit" message describing what you've done and click "commit." You should choose the option to automatically "stage" all changes.
    3. Finally, after the commit has finished, you must click to "sync" your changes with your repository. THIS MAKES THEM AVAILABLE FOR GRADING.
    4. You see a short video on the process here: https://youtu.be/9udBgTIbDLw
 
