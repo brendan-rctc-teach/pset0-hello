@@ -8,6 +8,6 @@ Click the green Code button and choose Open with Codespaces.
    1. On the left hand side of VSCode, choose the "source control" button.
    2. Now, you want to write a "commit" message describing what you've done and click "commit."
    3. Finally, after the commit has finished, you must click to "sync" your changes with your repository. THIS MAKES THEM AVAILABLE FOR GRADING.
-   4. 
+   4. You see a short video on the process here: https://youtu.be/9udBgTIbDLw
 
 ## Directions
