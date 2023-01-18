@@ -7,6 +7,6 @@ Click the green Code button and choose Open with Codespaces.
 3. To submit this problem: 
    1. type `git add --all && git commit -m "a short description of what've you done so far."`
    2. type `git push -- all'
-   3. for example `git add --all && committ m "started work on hello"' followed by 'git push'
+   3. for example `git add --all && committ m "started work on hello"' followed by 'git push -- all'
    4. You can also do this using VSCode's visual menu.
 
