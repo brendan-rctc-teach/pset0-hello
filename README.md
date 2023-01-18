@@ -57,6 +57,9 @@ And be sure to execute your program, testing it a few times with different input
 
 ./hello
 
-5. Once you are done, you can submit your work by "staging", "committing", and "pushing" (or "sycning") your changes. Your grade should show up within 5 minutes on the "action" tab of your repository.
-6. You can find a short "walkthrough" from CS50 staff here: https://youtu.be/wSk1KSDUEYA
-7. Walkthrough. You can find a short problm walktrgiy
+## Submitting Your Work
+Step 5. Once you are done, you can submit your work by "staging", "committing", and "pushing" (or "sycning") your changes. Your grade should show up within 5 minutes on the "action" tab of your repository.
+
+## Walkthrough
+If you need some help, you can find a short "walkthrough" from CS50 staff here: https://youtu.be/wSk1KSDUEYA
+
