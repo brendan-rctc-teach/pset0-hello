@@ -13,10 +13,10 @@ Click the green Code button and choose Open with Codespaces.
 ## Directions
 Let's write our first program! Here's what you should do:
 
-1. Execute `code hello.c`
+Step 1. Execute `code hello.c`
 to create a new file called hello.c, which should open automatically in your codespace’s text editor. As soon as you save the file with command-S (on macOS) or control-S (on Windows), it should also appear in your codespace’s explorer.
 
-2. Proceed to write your first program by typing precisely these lines into hello.c:
+Step 2. Proceed to write your first program by typing precisely these lines into hello.c:
 
 ```
 #include <stdio.h>
@@ -28,7 +28,7 @@ int main(void)
 ```
 Notice how VS Code adds “syntax highlighting” (i.e., color) as you type, though VS Code’s choice of colors might differ from this problem set’s. Those colors aren’t actually saved inside of the file itself; they’re just added by VS Code to make certain syntax stand out. Had you not saved the file as hello.c from the start, VS Code wouldn’t know (per the filename’s extension) that you’re writing C code, in which case those colors would be absent.
 
-3. Now, before we can execute the hello.c program, recall that we must compile it with a compiler, translating it from source code into machine code (i.e., zeroes and ones). Execute the command below to do just that:
+Step 3. Now, before we can execute the hello.c program, recall that we must compile it with a compiler, translating it from source code into machine code (i.e., zeroes and ones). Execute the command below to do just that:
 
 `make hello`
 
@@ -45,8 +45,8 @@ Now execute the program itself by executing the below.
 
 Hello, world, indeed!
 
-4. Getting User Input
-Suffice it to say, no matter how you compile or execute this program, it only ever prints hello, world. Let’s personalize it a bit, just as we did in class.
+## Getting User Input
+Step 4. Suffice it to say, no matter how you compile or execute this program, it only ever prints hello, world. Let’s personalize it a bit, just as we did in class.
 
 Modify this program in such a way that it first prompts the user for their name and then prints hello, so-and-so, where so-and-so is their actual name.
 
